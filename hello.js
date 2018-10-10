@@ -1,4 +1,4 @@
-l/*eslint-env node*/
+/*eslint-env node*/
 
 // Load the http module to create an http server.
 var http = require('http');
