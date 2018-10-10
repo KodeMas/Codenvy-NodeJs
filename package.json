@@ -1,0 +1,19 @@
+{
+  "name": "kodemas-codenvy-nodejs",
+  "version": "1.0.0",
+  "description": "kodemas nodejs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KodeMas/Codenvy-NodeJs.git"
+  },
+  "author": "iwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KodeMas/Codenvy-NodeJs/issues"
+  },
+  "homepage": "https://github.com/KodeMas/Codenvy-NodeJs#readme"
+}
